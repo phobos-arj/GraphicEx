@@ -2,7 +2,7 @@ dist
 dist-*
 cabal-dev
 *.o
-*.hi
+*.hif
 *.hie
 *.chi
 *.chs.h
@@ -21,3 +21,4 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+f
